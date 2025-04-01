@@ -1,0 +1,26 @@
+# Flask and CORS for API
+flask==3.1.0
+flask-cors==3.0.10
+
+# Environment variables
+python-dotenv==1.0.1
+
+# Weaviate client for vector database operations
+weaviate-client==3.26.7
+
+# Groq API client for AI responses
+groq==0.18.0
+
+# Logging utilities (optional, but included)
+requests==2.32.3
+
+# For Regular (Non-Anaconda) Users
+# pip install -r requirements.txt
+
+# For Anaconda Users
+# conda create --name myenv python=3.10
+# conda activate myenv
+# pip install -r requirements.txt
+
+
+# for frontend just do this 1)npm install 2)npm run dev in the ree2 directory or in sist_ai directory
