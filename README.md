@@ -11,6 +11,22 @@ SIST AI is a Retrieval-Augmented Generation (RAG)-based AI application designed 
 - **Robust Backend**: Flask is used for API management and query processing.
 
 ---
+## Screenshots
+
+### **Landing Page**
+![Login Page](public/landing.png)
+### **Login Page**
+![Login Page](public/login.png)
+
+### **Chat Interface**
+#### **Example 1**
+![Chat Example 1](public/chat_1.png)
+#### **Example 2**
+![Chat Example 2](public/chat_2.png)
+#### **Example 3**
+![Chat Example 3](public/chat_3.png)
+
+---
 
 ## Installation & Setup
 
@@ -102,3 +118,14 @@ python Backend.py  # Start Flask backend
 - Weaviate (Vector database)
 - Supabase (User authentication & file storage)
 - Groq API (LLM model)
+
+---
+
+
+
+## Demo Video
+watch locally:
+[Watch the Chat Demo](public/Chat.mp4)
+
+---
+
